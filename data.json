@@ -1,0 +1,171 @@
+{
+  "INFINIX": [
+    "Infinix GT 30 8/256 → 2.4jt",
+    "Infinix GT 30 Pro 256 → 2.7jt",
+    "Infinix GT 30 Pro 512 → 3.1jt",
+    "Infinix Note 50 Pro 8/256 → 1.9jt",
+    "Infinix Note 50s 5G+ → 2jt",
+    "Infinix Hot 60 Pro → 1.5jt",
+    "Infinix Hot 60 Pro Plus → 1.6jt",
+    "Infinix Note Edge → 2.3jt",
+    "Pova 7 Ultra → 3.4jt",
+    "Infinix Note 60 8/256 → 3.2jt",
+    "Infinix Note 60 Pro 8/256 → 3.6jt"
+  ],
+
+  "XIAOMI": [
+    "Xiaomi 15 256GB → 8.2jt",
+    "Xiaomi 15 512GB → 8.7jt",
+    "Xiaomi 17 12/256 → 11jt",
+    "Xiaomi 17 12/512 → 11.7jt",
+    "Xiaomi 13T 12/256 → 3.4jt",
+    "Xiaomi 14T 256GB → 3.9jt",
+    "Xiaomi 14T 512GB → 4.3jt",
+    "Xiaomi 14T Pro 256 → 5.3jt",
+    "Xiaomi 14T Pro 512 → 5.8jt",
+    "Xiaomi 15T 256GB → 5.3jt",
+    "Xiaomi 15T 512GB → 8jt",
+    "Xiaomi 15T Pro 1TB → 9jt"
+  ],
+
+  "POCO": [
+    "Poco F7 → 4.4jt",
+    "Poco F7 Pro → 5.1jt",
+    "Poco F8 Pro 512GB → 7.2jt",
+    "Poco F8 Ultra → 9jt",
+    "Poco X7 Pro → 3.5jt",
+    "Poco X8 Pro 8/256 → 4jt",
+    "Poco X8 Pro 8/512 → 4.1jt",
+    "Poco X8 Pro 12/256 → 4.3jt",
+    "Poco X8 Pro 12/512 → 4.5jt"
+  ],
+
+  "REDMI": [
+    "Redmi Note 14 Pro+ 256 → 3.1jt",
+    "Redmi Note 14 Pro+ 512 → 3.5jt",
+    "Redmi Note 15 Pro 5G 8/256 → 3.5jt",
+    "Redmi Note 15 Pro 5G 12/512 → 4jt",
+    "Redmi Note 15 Pro+ 8/256 → 4.2jt",
+    "Redmi Note 15 Pro+ 12/512 → 5jt",
+    "Xiaomi Pad 6 8/256 → 2.9jt",
+    "Xiaomi Pad 7 8/256 → 3.8jt"
+  ],
+
+  "IQOO": [
+    "iQOO Z9 8/128 → 2jt",
+    "iQOO Z9 8/256 → 2.3jt",
+    "iQOO Z9 12/256 → 2.5jt",
+    "iQOO Z10R 8/128 → 2.4jt",
+    "iQOO Z10R 8/256 → 2.6jt",
+    "iQOO Z10R 12/256 → 2.8jt",
+    "iQOO Z10 8/128 → 2.4jt",
+    "iQOO Z10 8/256 → 2.7jt",
+    "iQOO Z10 12/256 → 3jt",
+    "iQOO Z10 12/512 → 3.3jt",
+    "iQOO 13 256GB → 7jt",
+    "iQOO 13 512GB → 7.8jt",
+    "iQOO 15 256GB → 9.8jt",
+    "iQOO 15 512GB → 10.8jt",
+    "iQOO 15 1TB → 12jt",
+    "iQOO Neo 10 8/256 → 3.9jt",
+    "iQOO Neo 10 12/256 → 4.4jt",
+    "iQOO Neo 10 16/512 → 5jt",
+    "iQOO 15R 8/256 → 6jt",
+    "iQOO 15R 12/256 → 6.3jt",
+    "iQOO 15R 12/512 → 7jt"
+  ],
+
+  "SAMSUNG": [
+    "Samsung A56 8/256 → 4jt",
+    "Samsung A56 12/256 → 4.3jt",
+    "Samsung A56 12/512 → 4.7jt",
+    "Samsung S24 FE 8/128 → 5.1jt",
+    "Samsung S24 FE 8/256 → 5.4jt",
+    "Samsung S24 FE 8/512 → 5.9jt",
+    "Samsung S24 8/256 → 6.5jt",
+    "Samsung S24 Ultra 12/256 → 10.5jt",
+    "Samsung S25 12/256 → 8.5jt",
+    "Samsung S25 12/512 → 9.5jt",
+    "Samsung S25 Plus 12/256 → 10jt",
+    "Samsung S25 Plus 12/512 → 10.7jt",
+    "Samsung S24 Plus 12/256 → 7.4jt"
+  ],
+
+  "REALME": [
+    "Realme GT 7T → 4.2jt",
+    "Realme GT 7 → 5.3jt"
+  ],
+
+  "CAMON": [
+    "Camon 40 8/256 → 1.8jt",
+    "Camon 40 Pro → 2.8jt"
+  ],
+
+  "MOTOROLA": [
+    "Motorola G06 → 1jt",
+    "Motorola G45 → 1.3jt",
+    "Motorola G68 → 2.3jt",
+    "Motorola G86 Power → 2.6jt",
+    "Motorola Edge 60 Fusion → 3jt",
+    "Motorola Edge 60 Pro → 4.6jt"
+  ],
+
+  "ASUS ROG": [
+    "ROG 8 12/256 → 5jt",
+    "ROG 9 FE 12/256 → 5.5jt",
+    "ROG 9 Pro 16/512 → 10.5jt"
+  ],
+
+  "VIVO": [
+    "Vivo V60 8/256 → 4.7jt",
+    "Vivo V60 12/256 → 5jt",
+    "Vivo V60 12/512 → 5.5jt",
+    "Vivo V70 12/256 → 6.2jt",
+    "Vivo X300 12/256 → 10.6jt",
+    "Vivo X300 Pro 16/512 → 14jt"
+  ],
+
+  "OPPO": [
+    "Oppo A6 Pro 5G 8/256 → 2.7jt",
+    "Oppo Reno 13 5G 256GB → 4jt",
+    "Oppo Reno 14F 8/256 → 3.4jt",
+    "Oppo Reno 14F 12/256 → 3.6jt",
+    "Oppo Reno 14F 12/512 → 4jt",
+    "Oppo Reno 14 5G 8/256 → 4.8jt",
+    "Oppo Reno 14 5G 12/256 → 5jt",
+    "Oppo Reno 15F 8/128 → 3.8jt",
+    "Oppo Reno 15F 8/256 → 4.2jt",
+    "Oppo Reno 15 5G 8/256 → 5.7jt",
+    "Oppo Reno 15 5G 12/256 → 6.2jt",
+    "Oppo Find X9 256GB → 10.4jt",
+    "Oppo Find X9 512GB → 11.5jt"
+  ],
+
+  "APPLE PAD": [
+    "Pad A16 128GB (Resmi) → 4.8jt",
+    "iPad Air 5 M1 64GB (Resmi) → 4.8jt",
+    "iPad Air 6 M2 128GB (Resmi) → 7jt",
+    "iPad Air 6 M2 256GB (Resmi) → 8jt",
+    "iPad Air M3 128GB (Resmi) → 7.6jt",
+    "iPad Air M3 256GB (Resmi) → 9jt"
+  ],
+
+  "IPHONE": [
+    "iPhone 13 128GB (BH ≥90, Garansi ON) → 6jt",
+    "iPhone 13 128GB (BH <90, Garansi OFF) → 5.5jt",
+    "iPhone 15 Plus 128GB → 9.4jt",
+    "iPhone 16 128GB → 11.2jt",
+    "iPhone 17 Pro 256GB → 20jt",
+    "iPhone 17 Pro Max 256GB → 21jt"
+  ],
+
+  "HUAWEI & HONOR": [
+    "Honor 400 → 4.4jt",
+    "Honor 400 Lite → 2.3jt",
+    "Huawei Nova 13 Pro → 4.5jt",
+    "Huawei Nova 14 Pro → 5.5jt",
+    "Huawei Pura 80 → 7.3jt",
+    "Huawei Pura 80 Pro → 9.3jt",
+    "Huawei MatePad SE 4/128 → 1.5jt"
+  ]
+}
