@@ -41,6 +41,7 @@ body{
   top:-50%;
   left:-50%;
   animation:glowMove 8s linear infinite;
+  pointer-events: none;
 }
 
 @keyframes glowMove{
@@ -300,7 +301,7 @@ fetch("data.json")
       </div>
       <div class="content">
         ${data[brand].map(i=>`
-          <div class="item" onclick="waItem('${i}')">
+          <div class="item" ('onclick="waItem('${i}', event)">
             ${i}
           </div>
         `).join("")}
@@ -318,9 +319,15 @@ function ig(){
   window.location.href = "https://instagram.com/hpedia_id";
 }
 
-function waItem(nama){
+function waItem(nama, e){
+  e.stopPropagation();
   let text = encodeURIComponent("Halo, saya mau jual " + nama);
   window.location.href = "https://api.whatsapp.com/send?phone=62881024332195&text=" + text;
+}
+function scrollHarga(){
+  document.getElementById("list").scrollIntoView({
+    behavior:"smooth"
+  });
 }
 </script>
 
