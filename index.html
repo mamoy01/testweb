@@ -311,20 +311,16 @@ fetch("data.json")
 });
 
 function wa(){
-  window.location.href="https://wa.me/62881024332195";
+  window.location.href = "https://api.whatsapp.com/send?phone=62881024332195";
 }
 
 function ig(){
-  window.location.href="https://instagram.com/hpedia_id";
-}
-
-function scrollHarga(){
-  document.getElementById("harga").scrollIntoView({behavior:"smooth"});
+  window.location.href = "https://instagram.com/hpedia_id";
 }
 
 function waItem(nama){
   let text = encodeURIComponent("Halo, saya mau jual " + nama);
-  window.location.href = "https://wa.me/62881024332195?text=" + text;
+  window.location.href = "https://api.whatsapp.com/send?phone=62881024332195&text=" + text;
 }
 </script>
 
